@@ -13,7 +13,7 @@ const Landing = () =>{
             <Card />
             <Button
             title="Style button"
-            styles={{size:"large" , shape:"rounded-full"}}
+            styles="text-md rounded-full"
             />
         </div>
     )
